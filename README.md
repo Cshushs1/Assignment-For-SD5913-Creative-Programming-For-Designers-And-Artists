@@ -16,6 +16,7 @@ My current question is:
 > If AI can already help me generate working code, what do I actually need to learn from programming?
 
 My initial thought is that programming may still be important because it helps me understand and control what AI generates instead of only accepting its output.
+
 ## 1. Personal Experience with AI Coding
 
 Possible example: a phone case website I experimented with.
