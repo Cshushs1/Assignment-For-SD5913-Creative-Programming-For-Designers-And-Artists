@@ -1,171 +1,122 @@
 # Why Are We Here?
 
-## Initial Idea
+AI can already generate working code from natural-language instructions, and there is no doubt that this ability will keep improving. As a student with a background in illustration and design, I am not learning programming because I want to become a professional programmer, nor do I think I need to compete with AI over who can write code faster.
 
-AI can already generate working code from natural-language instructions. As a student from an illustration and design background, I do not want to become a professional programmer or compete with AI at writing code.
+What I actually want is to use programming to improve my design practice: building a polished personal website, developing small language or AI assistant tools, working with data and interactive projects, and occasionally making lightweight games.
 
-I am more interested in using programming to support my design practice, such as:
+For me, learning programming is therefore not about how much syntax I can memorize. It is about understanding the logic behind digital products, translating a design idea into a system that can actually run, and judging whether an AI-generated result really matches what I want.
 
-- personal websites
-- small language or AI assistant tools
-- data and interactive projects
-- lightweight games
+> AI makes it easier for me to make things, but programming gives me the ability to understand, modify, and control what I am making instead of simply accepting the result AI gives me.
 
-My current question is:
+## When AI Helped Me Cross the Coding Barrier
 
-> If AI can already help me generate working code, what do I actually need to learn from programming?
+My background is mainly in art and design rather than computer science. In the past, I could design a website’s visual system, page structure, and interaction prototype in Figma, but there was always a technical gap between “I designed a website” and “I built a website that actually works.”
 
-My initial thought is that programming may still be important because it helps me understand and control what AI generates instead of only accepting its output.
+Later, I started using ChatGPT, Cursor, and WorkBuddy. ChatGPT helped me understand errors and parts of the code logic, while Cursor and WorkBuddy helped me generate, modify, and implement website functions.
 
-## 1. Personal Experience with AI Coding
+For example, I once experimented with building a website for phone cases. From the page design to several basic functions, I could get something working in around twenty to thirty minutes. Even with limited coding ability, I could suddenly turn my design into a functioning product.
 
-Possible example: a phone case website I experimented with.
+However, the website could run before I fully understood why it worked. I could not clearly explain how its language switching or currency conversion worked, or how these functions would connect to email or payment systems if the website became real.
 
-Tools I used:
+This changed my question from:
 
-- ChatGPT
-- Cursor
-- WorkBuddy
-- Figma for the design
+> Can AI write code for me?
 
-I was able to make a working website in around 20–30 minutes even though my coding ability was limited.
+Clearly, it can.
 
-This was exciting, but also confusing.
+The real question became:
 
-Things I did not fully understand:
+> If AI can already help me build a polished website, why do I still need to learn programming?
 
-- How did the language switching work?
-- How did the currency conversion work?
-- How would the website connect to email?
-- How would payment or transactions actually work?
+## Describing Is Not the Same as Specifying
 
-Possible question:
+AI is very good at understanding natural-language instructions. I can say, “Make this website more interactive,” or “Make this section feel smoother.”
 
-> The website worked, but did I really understand what I had built?
+But what does “smoother” actually mean? A shorter animation? Faster feedback after a click? A more natural transition?
 
-This could be the main personal example for the essay.
+When I move from websites into small tools, data projects, or lightweight games, I still need to decide what information the user enters, how the data is processed, what happens after a button is clicked, and what conditions trigger the next state.
 
-## 2. Describing vs. Specifying
+AI can generate code, but it cannot decide what my design should actually do.
 
-AI understands natural language, but design language can be vague.
+> AI lowers the cost of producing code, but it does not remove the need for precise design decisions.
 
-Example:
+For me, programming is partly the practice of turning a vague design intention into clear system logic.
 
-> “Make the interaction smoother.”
+## Reading May Become More Important Than Writing
 
-But what does "smoother" mean?
+As AI continues to improve, I expect to manually write less code.
 
-- shorter animation?
-- faster feedback?
-- different transition?
-- different interaction logic?
-
-Possible argument:
-
-Programming could help me translate:
-
-> Design Intention → System Logic
-
-I still need to decide how the product should behave even if AI writes the code.
-
-## 3. Reading Code vs. Writing Code
-
-Maybe learning programming in 2026 is becoming less about writing everything manually.
-
-Traditional process:
+A traditional workflow might look like:
 
 > Write → Run → Debug
 
-Possible AI process:
+My future workflow may look more like:
 
-> Describe → Generate → Read → Test → Modify
+> Describe → Generate → Read → Test → Evaluate → Modify
 
-Questions to explore:
+I may not need to memorize every syntax rule or start every project from a blank file, but I still need to understand what AI has generated. If AI gives me hundreds of lines of code that I cannot understand, whenever something breaks my only option is to give the error back to AI and hope it fixes it.
 
-- Do I need to memorize syntax?
-- How much code do I actually need to write?
-- Is understanding generated code more important?
-- What happens if AI generates something I cannot understand?
+On the surface, I can say, “I built this website,” but in reality I have very little control over it.
 
-Possible argument:
+> If I cannot understand a system, can I really say that I designed it?
 
-> I may not need to become the best code writer, but I need to become a better code reader.
+For me, programming literacy may therefore become less about writing everything manually and more about reading, debugging, evaluating, and modifying systems.
 
-## 4. Programming as Part of Design
+## Programming Expands What I Can Design
 
-Programming might also change what I think I can design.
+Programming also matters because it changes what I imagine is possible.
 
-Without programming:
+If I only work with visual design tools, I may naturally think:
 
 > Poster → Page → Interface → Website
 
-With programming:
+Programming expands that range:
 
-> Interactive Website → Small Tool → Data-driven Experience → Lightweight Game
+> Interactive Website → Small Digital Tool → Data-driven Experience → Lightweight Game
 
-Possible examples:
+A website can respond to user input. A dataset can become an interactive result. A simple interaction can develop into a lightweight game.
 
-- website responding to user input
-- automatically organizing data
-- interactive results
-- small games
+Dylan Beattie’s *The Art of Code* also made me think about programming differently. His examples show code not only as a way of solving technical problems, but also as something creative and expressive. Coming from an art and design background, this makes programming feel less like a separate technical discipline and more like another material I can use.
 
-Main idea:
+This also connects to Don Ihde’s discussion in *Technology and the Lifeworld*. Technology is not simply a neutral tool; it also influences how we experience and understand the world. For me, learning programming similarly changes what I understand as possible to design.
 
-> Programming may expand my design vocabulary.
+Programming expands my design vocabulary. It does not only help me execute an existing idea; it can help me imagine new ones.
 
-### Source to Explore
+## What Might Actually Become Obsolete?
 
-Dylan Beattie, *The Art of Code*
+I do think some parts of traditional programming education may become less important. Memorizing large amounts of syntax, manually writing repetitive code, or building basic standard pages from scratch may become increasingly unnecessary when AI can do these things quickly.
 
-Possible connection:
-Code can be creative and expressive, not only technical.
+If programming education only teaches students to memorize syntax more accurately than a machine, I think that approach may lose value.
 
-Don Ihde, *Technology and the Lifeworld*
+What matters may simply change:
 
-Possible connection:
-Technology may influence how we experience the world and what we imagine is possible.
+> Syntax ↓  
+> System Thinking ↑  
+> Specification ↑  
+> Debugging ↑  
+> Judgement ↑  
+> Understanding ↑
 
-Need to research these sources more before using them in the final essay.
+I do not want to learn programming to compete with AI at writing code. I want to understand and control systems made from code.
 
-## 5. What Might Become Less Important?
+## Why Am I Here?
 
-I do not think all traditional programming skills will remain equally important.
+I do not expect programming to become the center of my future design practice, and I do not think it should be. I have always believed that human creativity, aesthetic judgement, and emotion are the real driving forces behind creative work. They are also what I see as an important distinction between us and machines. For me, programming and AI are mediums that help me realize these ideas, rather than the starting point of creativity itself.
 
-Things that AI may make less important:
+I want to use programming to build websites, small digital tools, data and interaction projects, and lightweight games. I also believe that more and more of the code behind these projects will be generated by AI in the future.
 
-- memorizing syntax
-- repetitive coding
-- writing basic pages from scratch
-- remembering simple functions
+But this does not make programming less worth learning. It simply changes what I think I should learn.
 
-Things that might become more important:
+I do not need to compete with a machine over who can write code faster. I need to understand the medium well enough to judge what I actually want, turn a vague idea into clear system logic, recognize when the machine gives me a wrong, generic, or unsuitable answer, and know how to continue modifying it.
 
-- system thinking
-- specification
-- debugging
-- judgement
-- understanding
+For me, learning programming is not about letting technology replace my creative process. It is about keeping the ability to judge and make choices while using technology.
 
-Possible question:
+> AI can help me realize an idea faster, but what to create, why to create it, and what it should ultimately become should still be decisions that I make.
 
-> If AI writes more of the code, what should programming education actually teach us?
+That is why I am here.
 
-## Possible Conclusion
+## References
 
-I do not think programming should become the center of my design practice.
+Beattie, D. (2018). *The art of code* [Conference presentation]. NDC Conferences.
 
-I still believe creativity, aesthetic judgement, and emotion should come from the human designer.
-
-Programming and AI could be tools or mediums that help me realize those ideas.
-
-Possible final direction:
-
-> AI can help me make something faster, but I still need to decide what I want to make and whether the result is actually right.
-
-## References to Research
-
-- Dylan Beattie — *The Art of Code*
-- Don Ihde — *Technology and the Lifeworld*
-
-*References and APA formatting still need to be verified.*
+Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
